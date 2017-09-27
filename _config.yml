@@ -3,8 +3,8 @@ title: Think |> Design |> Code
 description: 'Damien Imberdis - Software Engineer'
 url: 'https://dam.github.io'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-70416260-1'
+disqus_shortname: 'dimberdis'
 
 author:
   name: 'Damien Imberdis'
